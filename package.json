@@ -1,7 +1,7 @@
 {
-  "name": "typescriptreact-language-service",
+  "name": "tsslint-plugin-react",
   "version": "0.0.0",
-  "description": "A `typescriptreact` language service plugin that allows additional refactors and diagnostics with your VSCode editor (or any editor that supports TypeScript's LSP).",
+  "description": "A tsslint plugin that allows additional refactors and diagnostics with your VSCode editor (or any editor that supports TypeScript's LSP).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
