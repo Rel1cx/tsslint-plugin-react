@@ -1,7 +1,7 @@
 {
   "name": "tsl-plugin-react",
   "version": "0.0.0",
-  "description": "A tsl plugin that allows additional refactors and diagnostics with your VSCode editor (or any editor that supports TypeScript's LSP).",
+  "description": "Bring the same linting functionality that https://eslint-react.xyz has to the TypeScript LSP.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
